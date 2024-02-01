@@ -1,5 +1,6 @@
 # YouTube Playlist Info Web App using Flask
 
+![YouTube Playlist Info Web App](Screenshot (119).png)
 This web application, built with Flask, allows users to retrieve information about a YouTube playlist, including the total number of videos, total duration, and average video duration.
 
 ## Features
