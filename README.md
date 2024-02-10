@@ -22,7 +22,7 @@ This web application, built with Flask, allows users to retrieve information abo
 Install the required packages using:
 
 ```bash
-pip install Flask youtube-dl
+pip install requirements.txt
 ```
 ## License
 This project is licensed under the MIT License.
